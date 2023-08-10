@@ -24,3 +24,7 @@ https://sites.google.com/view/tglworkshop2022/home
 An early 2023 survey of the field is available here:
 
 https://towardsdatascience.com/temporal-graph-learning-in-2023-d28d1640dbf2
+
+There is a Canadian Government funded research program using ML on Blockchains here which includes some potentially useful data sets:
+
+https://www.chartalist.org/index.php
