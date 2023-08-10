@@ -3,7 +3,7 @@ Graph based Identification of Sybils
 
 Much more about our intended approach can be found at in this write-up: https://docs.google.com/document/d/1aliAgjct6dZ5ZZdBEwbykJJRgxyMhx_d8Bd99WKLJAg/edit?usp=sharing
 
-And this is a useful survey of the domain:  https://arxiv.org/ftp/arxiv/papers/1812/1812.08434.pdf
+And this is a useful survey of the GNNs:  https://arxiv.org/ftp/arxiv/papers/1812/1812.08434.pdf
 
 ![overview](https://github.com/OpenDataforWeb3/GIS/assets/8564403/e9a52b79-2488-4160-abc8-e3b716717fa3)
 
@@ -16,3 +16,6 @@ Regarding which model or approach to select for our large heterogeneous directed
 The above survey links to a list of published papers that was updated until last year that can be useful as well:
 
 https://github.com/thunlp/gnnpapers
+
+Temporal graph networks are an area of active research, with the first workshops on the subject given at NIPS in 2022.  An early 2023 survey of the field is available here:
+https://towardsdatascience.com/temporal-graph-learning-in-2023-d28d1640dbf2
