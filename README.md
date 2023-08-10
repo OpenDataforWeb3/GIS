@@ -17,6 +17,10 @@ The above survey links to a list of published papers that was updated until last
 
 https://github.com/thunlp/gnnpapers
 
-Temporal graph networks are an area of active research, with the first workshops on the subject given at NIPS in 2022.  An early 2023 survey of the field is available here:
+Temporal graph networks are an area of active research, with the first workshops on the subject given at NIPS in 2022. 
+
+https://sites.google.com/view/tglworkshop2022/home
+
+An early 2023 survey of the field is available here:
 
 https://towardsdatascience.com/temporal-graph-learning-in-2023-d28d1640dbf2
