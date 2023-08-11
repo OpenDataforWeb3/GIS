@@ -35,3 +35,9 @@ https://towardsdatascience.com/temporal-graph-learning-in-2023-d28d1640dbf2
 There is a Canadian Government funded research program using ML on Blockchains here which includes some potentially useful data sets:
 
 https://www.chartalist.org/index.php
+
+There are at least a couple of approaches to building useful models from the bottom up:
+- TGN like models
+- CAW and other walk models
+
+And then there are approaches seeking to encode graphs in lower dimensional space - such as via Laplacian Change Point Detection.  These can be considered top down
