@@ -9,6 +9,9 @@ And this is a useful survey of GNNs:  https://arxiv.org/ftp/arxiv/papers/1812/18
 
 Compared to that diagram, we ALSO want to employ transfer learning to create a foundation-like model that can be fine-tuned as needed.  The foundation model should have extremely expressive embeddings so that it best informs the pattern or motif final model.
 
+This youtube from the DeepFindr channel does an excellent job summarizing approaches to using GNNs for Fraud Detection:
+https://www.youtube.com/watch?v=MZGuz-o7Fl0
+
 We believe that the correct description of the necessary GNN is:
 - Temporal
 - Heterogeneous
