@@ -20,9 +20,9 @@ We believe that the correct description of the necessary GNN is:
 - Unsupervised - for the most part
 - And the data is sparse and imbalanced as there are relatively few Sybils
   
-The above survey links to a list of published papers that was updated until last year that can be useful as well:
+The above survey links to a list of published GNN:
 
-https://github.com/thunlp/gnnpapers
+[https://github.com/thunlp/gnnpapers](https://github.com/safe-graph/graph-fraud-detection-papers)
 
 Temporal graph networks are an area of active research, with the first workshops on the subject given at NIPS in 2022. 
 
