@@ -44,7 +44,7 @@ There are at least a couple of approaches to building useful models from the bot
 And then there are approaches seeking to encode graphs in lower dimensional space - such as via Laplacian Change Point Detection.  These can be considered top down.
 
 As of September 2023 we are working to test and deploy the Bert4Eth model, which, as the name indicates, uses a transformer approach to learn representations of users on Ethereum.
-The Bert4Eth github has much more information:  https://github.com/git-disl/BERT4ETH
+Our fork of Bert4Eth is here:  https://github.com/OpenDataforWeb3/BERT4ETH_ODC
 
 We would like to thank Funding the Commons for their support and the authors of the Bert4Eth paper who have been very kind in providing us with some initial guidance.  
 
