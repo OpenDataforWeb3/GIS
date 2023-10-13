@@ -1,5 +1,13 @@
 # GIS
-Graph based Identification of Sybils
+Graph based Identification of Sybils.  Contributions are welcome.
+
+We are working on some basic documentation intended to accelerate the learning curve for others interested in using Bert4eth for Sybil detection and other use cases.  
+
+This project is being discussed somewhat with the ODC Discord at:  https://discord.gg/5EgeWkrpWk
+
+Please feel free to drop in and say hello.
+
+# Background
 
 We have been conducting research individually and some as a community into approaches to apply Deep Learning for Sybil Detection.  In September of 2023 a community member started a residence working with Funding the Commons on this project.
 This repository is intended to track our progress, including our research and also our work to build and refine deep learning models for these purposes.  
